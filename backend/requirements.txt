@@ -1,0 +1,23 @@
+# Core backend framework
+fastapi
+uvicorn
+
+# Document processing
+PyPDF2
+python-docx
+
+# NLP and embeddings
+sentence-transformers
+faiss-cpu
+
+# LLM and text generation
+transformers
+torch
+
+# Data and utilities
+numpy
+pandas
+
+# For cross-origin access (frontend ↔ backend)
+python-multipart
+requests

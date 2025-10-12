@@ -1,0 +1,5 @@
+ Topic: Large Language Models
+Definition: LLMs are AI models trained on massive amounts of text to understand and generate human-like language.
+Examples: GPT-4, BERT, T5, FLAN-T5
+Applications: Chatbots, Text summarization, Translation, Content generation
+Key Feature: Can answer questions, generate text, and understand context.

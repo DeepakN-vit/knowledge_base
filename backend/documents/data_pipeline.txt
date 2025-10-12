@@ -1,0 +1,4 @@
+A data pipeline is a series of processes that move data from one system to another. 
+It often includes data collection, cleaning, transformation, and loading into a storage or analysis system. 
+Data pipelines are essential in machine learning as they prepare data for training and evaluation. 
+Tools like Apache Airflow and AWS Data Pipeline are commonly used to automate and manage data pipelines.

@@ -1,0 +1,9 @@
+Topic: Artificial Intelligence
+Definition: AI is the simulation of human intelligence in machines.
+Applications: 
+  1. Self-driving cars
+  2. Voice assistants
+  3. Healthcare diagnosis
+  4. Robotics
+Popular Techniques: Machine Learning, Deep Learning, Natural Language Processing
+Goal: To make machines think and act like humans.

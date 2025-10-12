@@ -1,0 +1,9 @@
+ Topic: Machine Learning
+Definition: Machine Learning is a subset of AI that allows machines to learn from data.
+Types:
+  1. Supervised Learning
+  2. Unsupervised Learning
+  3. Reinforcement Learning
+Popular Algorithms: Linear Regression, Decision Trees, Neural Networks
+Applications: Spam detection, Stock price prediction, Recommendation systems
+Difference from AI: ML is a method to achieve AI.

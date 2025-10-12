@@ -1,0 +1,14 @@
+Name: Deepak N
+Age: 22
+Gender: Male
+Education: B.Tech in Computer Science from VIT-AP
+Skills: Python, Machine Learning, Deep Learning, Data Structures & Algorithms, Frontend Development
+Achievements: Solved 700+ problems on LeetCode, Ranked Top 40 in GFG at VIT-AP
+Projects: 
+  1. Speech Recognition Model
+  2. Handwriting Classification System
+  3. Movie Recommendation System
+Hobbies: Reading tech blogs, Playing chess, Coding challenges
+Location: Chennai, India
+Email: deepak@example.com
+Phone: +91-6374882446
